@@ -46,3 +46,6 @@
 [submodule "cmake/configs/uavcan_board_ident"]
 	path = cmake/configs/uavcan_board_ident
 	url = https://github.com/PX4/uavcan_board_ident.git
+[submodule "src/lib/openvpn3"]
+	path = src/lib/openvpn3
+	url = https://github.com/OpenVPN/openvpn3
